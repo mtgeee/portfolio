@@ -1,5 +1,24 @@
-# Portfolio
+All these site are responsive to alll devices.
 
-https://gatsby-voltox.mtgeee.now.sh/
+Violet MM Website-
+https://violet-mm.netlify.app/
+>A website made using gatsby and netlifycms to update user transactions easily, plus importing current data.
 
-> Voltox's Portfolio website, mockup was provided, portfolio website for a visual artist and graphic designer.
+Voltox Website-
+https://gatsby-voltox.now.sh/
+>Mockup was provided, simple and yet quite stylish portfolio website made using Gatsbyjs, this was one of the first sites I have ever made for a client.
+
+Recurve Website-
+https://recurve-gatsby.now.sh/
+>Mockup was provided, simple landing and about page for a company in the name of Recurve, made using gatsbyjs and framer motion.
+
+BLACKAG Temporary Website-
+https://blackag.design/
+>Design was made, simple and stylish temporary landing page for Blackag.
+
+CyberTools Front-end-
+>Design was made, great looking two-page front-end made for a developer, only used HTML/CSS.
+https://cybertools-css.netlify.app/
+
+Minecraft Server Website-
+https://stoic-lovelace-25a676.netlify.app/
