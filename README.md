@@ -19,6 +19,3 @@ https://blackag.design/
 CyberTools Front-end-
 >Design was made, great looking two-page front-end made for a developer, only used HTML/CSS.
 https://cybertools-css.netlify.app/
-
-Minecraft Server Website-
-https://stoic-lovelace-25a676.netlify.app/
