@@ -1,4 +1,4 @@
-All these site are responsive to alll devices.
+All these site are responsive to all devices.
 
 Yantra -
 https://yantra.dev/
